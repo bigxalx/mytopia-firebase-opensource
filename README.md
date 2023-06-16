@@ -1,6 +1,6 @@
 # Mytopia iOS and Android Source Code
 
-These are the Cloud Functions for Firebase for the [Mytopia iOS and Android Apps](#).
+These are the Cloud Functions for Firebase for the [Mytopia iOS and Android Apps](https://github.com/bigxalx/mytopia-app-opensource).
 
 ## Usage
 
